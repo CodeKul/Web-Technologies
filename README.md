@@ -1,4 +1,5 @@
 # Web-Technologies 
+Check Syllabus in the link given below - 
 http://www.codekul.com/web-designing-and-development-courses-in-pune.html
 
 weekend batch : started from 04/08/2018
